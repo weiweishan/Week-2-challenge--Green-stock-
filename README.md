@@ -1,5 +1,5 @@
 # Week-2-challenge--Green-stock-
-to visualize the stock volume and he returns 
+to visualize the stock volume and his returns in order to make better decisions 
 
 
 Overall the 2018 stock mark was poorly performed than the 2017. The was due to the President Donald Trump’s trade war with China, the slowdown in global economic growth and concern that the Federal Reserve was raising interest rates too quickly all contributed to a pessimistic reaction from the stock market. However, RUN has a interest of 78.4% in 2018 compared with 
